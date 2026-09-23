@@ -1,0 +1,3 @@
+threshold-percent: 90
+message: "&cServer disk is nearly full (% used)! New chunk generation is temporarily disabled to prevent issues."
+monitor-path: ""  # Leave empty for auto (server root), or set e.g. "/home/minecraft/server"

@@ -1,0 +1,9 @@
+name: DiskChunkGuard
+version: 1.0
+main: com.yourname.diskchunkguard.DiskChunkGuard
+api-version: 1.21
+author: YourName
+commands:
+  dcgreload:
+    description: Reload DiskChunkGuard config
+    permission: diskchunkguard.reload
